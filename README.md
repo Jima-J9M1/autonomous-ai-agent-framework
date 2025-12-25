@@ -118,7 +118,3 @@ Executes the agent with the given goal. The agent will:
 - Uvicorn
 - Pydantic
 
-## License
-
-[Add your license here]
-
