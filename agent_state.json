@@ -1,0 +1,12 @@
+{
+  "state": "executing",
+  "tasks": [
+    {
+      "id": "c26b2866-f42e-4b71-adbb-77e554e851b5",
+      "description": "\"Sum 5 and 2\"",
+      "status": "completed",
+      "result": "Executed task: \"Sum 5 and 2\"",
+      "retries": 0
+    }
+  ]
+}
